@@ -4,7 +4,7 @@
 
 > [**MissionGNN: Hierarchical Knowledge‑Graph Reasoning Meets Short‑Term Temporal Context for Surveillance Video Anomaly Detection**](https://arxiv.org/abs/2406.18815)
 > *In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)*
-> **Hyunwoo Oh**, Sanggeon Yun, Ryozo Masukawa, Nathaniel D. Bastian, Mohsen Imani
+> Sanggeon Yun, Ryozo Masukawa, Minhyoung Na, Mohsen Imani
 
 ![MissionGNN overview1](figures/figure1.png)
 
