@@ -1,0 +1,21 @@
+sports medicine->injuries
+smoke->fire
+fire->hot
+fire->flames
+fire->burning
+fire->flame
+burn->fire
+fire->heat
+heat->fire
+fire->smoke
+smoke->fire
+smoke->cigarette
+smoke->air
+fire->smoke
+smoke->cigar
+smoke->gas
+smoke->cigarettes
+smoke->vapor
+steam->smoke
+smoke->fog
+smoke->grey

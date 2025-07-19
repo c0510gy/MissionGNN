@@ -1,0 +1,10 @@
+alarmer->alarms
+alarms->alarm
+valuables->valuable
+tosh->valuables
+treasury->valuables
+tosh->valuables
+coffer->valuables
+strongroom->valuables
+shoplifting->shoplift
+shoplift->shoplifting

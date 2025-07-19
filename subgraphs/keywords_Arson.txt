@@ -1,0 +1,30 @@
+fire
+smoke
+damage
+flammable liquid
+accelerant container
+fire origin
+arson device
+matches
+lighter
+fire spread
+structural damage
+vehicle fire
+forest fire
+fire extinguisher
+burn pattern
+electrical fault
+flammable material
+candle
+torch
+molotov cocktail
+fire alarm
+sprinkler system
+emergency services
+fire department
+investigation equipment
+surveillance camera
+suspicious person
+escape route
+security barrier
+warning sign

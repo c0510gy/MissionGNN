@@ -1,0 +1,8 @@
+evening->nighttime
+sleep->nighttime
+dream->nighttime
+nighttime->night
+wee hours->nighttime
+nighttime->hour
+loitering->loiter
+balaclava->head

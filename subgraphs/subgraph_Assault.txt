@@ -1,0 +1,16 @@
+accouterment->weapons
+sports medicine->injuries
+bloodstains->bloodstain
+evening->nighttime
+sleep->nighttime
+dream->nighttime
+nighttime->night
+wee hours->nighttime
+nighttime->hour
+masks->mask
+masks->mask
+clothing->gloves
+gloves->glove
+hoodies->hoodie
+tasers->taser
+tasers->taser

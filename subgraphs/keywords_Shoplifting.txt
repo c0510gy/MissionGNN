@@ -1,0 +1,30 @@
+person
+retail environment
+security camera
+shelf
+product
+basket
+bag
+cart
+checkout counter
+security tag
+facial expression
+body language
+group of people
+exit sign
+entrance sign
+cashier
+surveillance monitor
+hidden object
+suspicious behavior
+aisle
+clothing
+electronics
+jewelry
+wallet
+phone
+hand movement
+store employee
+crowded place
+security guard
+camera angle

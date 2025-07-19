@@ -1,0 +1,15 @@
+gun->weapon
+bullet->weapon
+club->weapon
+protest->against
+protest->demonstration
+protest->march
+protest->rally
+protest->people
+protest->angry
+protest->riot
+protest->strike
+protest->signs
+protest->argue
+clothing->gloves
+gloves->glove

@@ -1,0 +1,53 @@
+sneeze->explosion
+smoke->fire
+fire->hot
+fire->flames
+fire->burning
+fire->flame
+burn->fire
+fire->heat
+heat->fire
+fire->smoke
+smoke->fire
+smoke->cigarette
+smoke->air
+fire->smoke
+smoke->cigar
+smoke->gas
+smoke->cigarettes
+smoke->vapor
+steam->smoke
+smoke->fog
+smoke->grey
+chief->police
+quint->firefighters
+firefighters->firefighter
+ambulances->ambulance
+accident->ambulances
+fire->flames
+flames->flame
+inflamed->flames
+flames->flame
+scathefire->flames
+crowd->people
+crowd->group
+crowd->gathering
+crowd->many people
+crowd->mob
+crowd->large
+crowd->lots
+crowd->audience
+crowd->mass
+crowd->lots people
+crowd->large group
+crowd->big
+crowd->group people
+crowd->throng
+crowd->people group
+crowd->bunch
+crowd->three
+crowd->concert
+crowd->large gathering
+crowd->lot
+atom->bomb
+bomb->atomic bomb

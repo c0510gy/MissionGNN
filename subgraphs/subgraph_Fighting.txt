@@ -1,0 +1,80 @@
+gun->weapon
+bullet->weapon
+club->weapon
+car->vehicle
+boat->vehicle
+evening->night
+dream->night
+sleep->night
+night->dark
+moon->night
+day->night
+dark->night
+bed->night
+night->day
+owl->night
+night->evening
+bat->night
+night->time
+street->road
+road->street
+street->avenue
+address->street
+main->street
+aggressor->aggression
+chief->police
+wound->injury
+burn->injury
+cut->injury
+pain->injury
+blood->red
+blood->fluid
+blood->liquid
+blood->body
+blood->veins
+blood->red liquid
+blood->in veins
+blood->cells
+blood->arteries
+wound->blood
+blood->body fluid
+robbery->stealing
+robbery->theft
+robbery->crime
+robbery->bank
+robbery->burglary
+robbery->steal
+robbery->armed
+robbery->robber
+robbery->theft
+theft->thieve
+protest->against
+protest->demonstration
+protest->march
+protest->rally
+protest->people
+protest->angry
+protest->riot
+protest->strike
+protest->signs
+protest->argue
+crowd->people
+crowd->group
+crowd->gathering
+crowd->many people
+crowd->mob
+crowd->large
+crowd->lots
+crowd->audience
+crowd->mass
+crowd->lots people
+crowd->large group
+crowd->big
+crowd->group people
+crowd->throng
+crowd->people group
+crowd->bunch
+crowd->three
+crowd->concert
+crowd->large gathering
+crowd->lot

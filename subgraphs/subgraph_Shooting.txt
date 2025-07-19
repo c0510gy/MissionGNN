@@ -1,0 +1,53 @@
+suspicion->suspect
+blaow->gunshot
+gunshot->discharge
+bullet->gun
+bullet->projectile
+bullet->ammunition
+bullet->guns
+bullet->ammo
+bullet->shooting
+bullet->metal
+bullet->weapon
+bullet->lead
+bullet->gun ammunition
+bullet->gun ammo
+bullet->shot
+bullet->gun projectile
+bullet->small
+illegal->illegitimate
+unlawful->illegal
+danger->warning
+danger->hazard
+danger->peril
+danger->risk
+danger->trouble
+gun->shooting
+bullet->shooting
+chief->police
+guard->security
+criminality->criminal
+traumatise->trauma
+captain->officer
+general->officer
+officer->agent
+lieutenant colonel->officer
+rule->law
+law->legal
+law->rules
+law->rule
+court->law
+law->order
+bullet->gun
+gun->weapon
+rifle->gun
+gun->bullets
+gun->shooting
+gun->rifle
+gun->pistol
+gun->barrel
+gun->trigger
+gun->weapon
+bullet->weapon
+club->weapon
+gun->firearm

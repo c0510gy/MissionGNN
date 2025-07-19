@@ -1,0 +1,30 @@
+weapon
+explosive
+uniform
+mask
+vehicle
+suspicious activity
+night
+indoors
+alley
+street
+violence
+aggression
+physical confrontation
+emergency vehicle
+police
+security camera
+security guard
+injury
+blood
+robbery
+theft
+breaking entry
+arrest
+handcuffs
+protest
+crowd
+militia
+riot gear
+surveillance
+alarm system

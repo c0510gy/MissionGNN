@@ -1,0 +1,37 @@
+gun->weapon
+bullet->weapon
+club->weapon
+bullet->guns
+guns->gun
+cut->knives
+aggressor->aggression
+fear->emotion
+fear->afraid
+fear->scared
+fear->being
+fear->feeling
+bruises->bruise
+wound->bruises
+stitch->wounds
+ouns->wounds
+external cause->wounds
+blood and ouns->wounds
+wounds->wound
+wounds->wound
+vulnerary->wounds
+vulnerary->wounds
+pain->wounds
+restraints->restraint
+chains->chain
+mechanism->chains
+wine->alcohol
+bar->alcohol
+screamings->screaming
+unconscious->involuntary
+involuntary->unconscious
+unaware->unconscious
+asleep->unconscious
+gagged->gag
+alarmer->alarms
+alarms->alarm
+desperation->despair

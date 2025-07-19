@@ -1,0 +1,9 @@
+graffiti->vandalism
+throw up->graffiti
+throwie->graffiti
+loitering->loiter
+mistagging->tagging
+graffiti->tagging
+tagging->tag
+tagging->tag
+price->tagging
