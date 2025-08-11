@@ -99,7 +99,7 @@ Modify any field and re‑run `train.py`; everything else adapts automatically.
 
 ```bibtex
 @inproceedings{yun2025missiongnn,
-  title={Missiongnn: Hierarchical multimodal gnn-based weakly supervised video anomaly recognition with mission-specific knowledge graph generation},
+  title={MissionGNN: Hierarchical Multimodal GNN-based Weakly Supervised Video Anomaly Recognition with Mission-Specific Knowledge Graph Generation},
   author={Yun, Sanggeon and Masukawa, Ryozo and Na, Minhyoung and Imani, Mohsen},
   booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
   pages={4736--4745},
